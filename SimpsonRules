@@ -1,6 +1,6 @@
 import java.util.*; 
 import java.io.*; 
-public class Simpson1
+public class Simpson
 {
    private static double matriz[][];
    public static double funcion(double x){ 
