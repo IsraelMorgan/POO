@@ -1,2 +1,2 @@
 # POO
-Pyoyectos POO en java
+Proyectos POO en java
